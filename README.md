@@ -1,3 +1,5 @@
+Chị mở nó tự chạy ạ. Nhưng hiện vẫn còn lỗi. Em chạy trên máy em thì vẫn bình thường, nhưng chạy trên gitpod thì bị lỗi :(
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
